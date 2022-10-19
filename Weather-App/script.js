@@ -38,4 +38,4 @@ searchBar.addEventListener('keyup', (event) => {
         weather.search();
     }
 })
-weather.fetchWeather('Vilnius');
+weather.fetchWeather('Denver');
